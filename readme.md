@@ -1,0 +1,1 @@
+TLDR: You can instantly access an online browser via [browserling.com/browse](https://www.browserling.com/browse). We run online cloud browsers on our servers and stream them to you as a video. No downloads, no setup. Just open and start browsing from anywhere, for free.
